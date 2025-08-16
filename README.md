@@ -33,6 +33,3 @@ Prochaines étapes proposées (après push du code)
 - Générer issues GitHub automatiques à partir de la roadmap MVP.
 - Ajouter tests et couvertures.
 - Connecter CI / secrets (DATABASE_URL, DOCKERHUB / registry, STRIPE_SECRET).
-
-Si tu veux que je pousse automatiquement le code dans le dépôt GitHub "oerna/diffusion-spectacles",
-donne-toi les droits pour me permettre d'écrire (ou crée le dépôt et partage l'URL ici) — je m'occuperai du reste.
