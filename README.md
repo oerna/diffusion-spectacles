@@ -1,4 +1,3 @@
-```markdown
 # diffusion-spectacles
 
 Logiciel de diffusion de spectacles — scaffold MVP
@@ -37,4 +36,3 @@ Prochaines étapes proposées (après push du code)
 
 Si tu veux que je pousse automatiquement le code dans le dépôt GitHub "oerna/diffusion-spectacles",
 donne-toi les droits pour me permettre d'écrire (ou crée le dépôt et partage l'URL ici) — je m'occuperai du reste.
-```
